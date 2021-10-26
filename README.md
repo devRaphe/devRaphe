@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eezekiel
-- 👀 I’m interested in Seamless Mobile Applications
+- I build Seamless Mobile Applications
 - 🌱 I’m currently learning how  to be cool
 - 💞️ I’m looking to collaborate on real world ideas or projects
 - 📫 You can reach me @ etiabasiezekiel@ymail.com or +2349068186315
