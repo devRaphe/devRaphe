@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eezekiel
+- 👋 Hi, I’m Raphael Ezekiel
 - I build Seamless Mobile Applications
 - 🌱 I’m currently learning how  to be cool
 - 💞️ I’m looking to collaborate on real world ideas or projects
