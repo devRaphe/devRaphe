@@ -4,8 +4,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&height=100&lines=Hey!!!+ Welcome+to+Raphael's+profile;He+is+a+Mobile+Engineer;With+2+years%2B+experience;In+cross+Platform+Development+;With+Flutter+%F0%9F%92%99%F0%9F%92%99%F0%9F%92%99;He+is+always+learning+new+things;Watch+this+space"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&height=100&lines=Hey!!!+Welcome+to+Raphael's+profile;Raphael+is+a+mobile+Engineer;With+2+years%2B+experience;In+Cross+Platform+Development;With+Flutter%F0%9F%92%99%F0%9F%92%99%F0%9F%92%99;He+is+always+learning+new+things;Watch+this+space"></a>
+  
 </p>
+
 
 **Raphael is Intermediate mobile engineer passionate about Mobile Programming with 2-year experience in cross-platform mobile development(Flutter) Looking for opportunities as a software developer with an expert team of developers who will help advance my career progression to senior positions in the future.**
 
