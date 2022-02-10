@@ -19,7 +19,7 @@
 
 📈 Checkout his GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devraphe&show_icons=true&theme=gotham" alt="isaacadariku" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devraphe&show_icons=true&theme=gotham" alt="devraphe" />
 
 🏆 His GitHub Trophy
 
