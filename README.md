@@ -9,9 +9,9 @@
 </p>
 
 
-**Raphael is Intermediate mobile engineer passionate about Mobile Programming with 2-year experience in cross-platform mobile development(Flutter) Looking for opportunities as a software developer with an expert team of developers who will help advance my career progression to senior positions in the future.**
+**Raphael is a senior mobile engineer passionate about Mobile Programming with 4-year experience in cross-platform mobile development(Flutter) Looking for opportunities as a software developer with an expert team of developers who will help advance my career progression to senior positions in the future. Raphael is also skilled in building backend applications with frameworks such as SpringBoot for Java and NestJs for Typescript. **
 
-- 🔭 **_He is currently Studying about Data Struture and Algorithms_**
+- 🔭 **_He is currently Studying about Data Structures and Algorithms_**
 - 🌱 **_He is learning best practices to make my next project better than the previous_**
 - 🧊 **_He is exploring more about the multiple blockchain platforms and their smart contracts capabilities._**
 - 👯 **_He am is always 💻 with ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white)._**
